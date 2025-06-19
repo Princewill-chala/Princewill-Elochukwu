@@ -1,4 +1,4 @@
-# Princewill-Elochukwu
+# MY PORTFOLIO
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
@@ -15,7 +15,8 @@ I’m the founder of CHALA LOKAL INC LTD, where I offer analytical solutions acr
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Transformation & Visualizations.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+I specialize in transforming raw data into clean, structured formats and creating impactful visualizations that reveal insights.
+
 
 
 <!--Section 2: List 3-4 key projects-->
