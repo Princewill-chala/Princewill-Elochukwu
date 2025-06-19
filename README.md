@@ -2,18 +2,19 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Princewill Elochukwu 🧑‍💻, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
-
+Hello! I'm Princewill Elochukwu 🧑‍💻 — a data analyst, passionate about transforming data into actionable insights.
+I bring cross-functional experience in sales, operations, finance, and customer service. Skilled in cybersecurity, web development, and cloud computing, with strong Excel and Power BI expertise.
+I build secure, insight-driven solutions that help businesses grow and adapt intelligently.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Executive officer of CHALA LOKAL INC LTD, I provide consulting and training services for businesses and mentor aspiring analysts.*
+I’m the founder of CHALA LOKAL INC LTD, where I offer analytical solutions across operations, finance, and business training.
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
+**- ✅ Transformation & Visualizations.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
@@ -22,7 +23,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Content Analytical insights of Social Buzz content media**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
